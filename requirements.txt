@@ -1,0 +1,10 @@
+torch
+diffusers
+transformers
+accelerate
+streamlit
+streamlit-drawable-canvas
+pyngrok
+opencv-python
+numpy
+Pillow
